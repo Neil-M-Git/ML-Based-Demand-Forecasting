@@ -104,7 +104,7 @@ A **Time Index** was created from the historical sales data and used as a featur
 | 📏 Mean Absolute Error (MAE) | 32,200.46 |
 | 📊 Mean Absolute Percentage Error (MAPE) | 12.89% |
 
-The project report states that the forecasts closely followed historical sales trends and captured the overall business growth pattern. :contentReference[oaicite:2]{index=2}
+The project report states that the forecasts closely followed historical sales trends and captured the overall business growth pattern.
 
 ---
 
