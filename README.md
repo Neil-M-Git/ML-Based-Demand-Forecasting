@@ -151,9 +151,9 @@ The forecasting results can support:
 
 ## 📁 Project Files
 
-- [📓 ML_Based_Demand_Forecasting.ipynb](./ML_Based_Demand_Forecasting.ipynb) – Data analysis and machine learning implementation
-- [📊 superstore_sales.csv](./superstore_sales.csv) – Dataset used for analysis
-- [📑 ML_Based_Demand_Forecasting_Presentation.pptx](./ML_Based_Demand_Forecasting_Presentation.pptx) – Project presentation
+- [📓 main.ipynb](./code/main.ipynb) – Data analysis and machine learning implementation
+- [📊 superstore_sales.csv](./dataset/superstore_sales.csv) – Dataset used for analysis
+- [📑 Project Presentation](./ppt/Neil_Majumdar_ML_Based_Demand_Forecasting.pptx) – Project presentation
 
 ---
 
