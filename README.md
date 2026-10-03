@@ -170,7 +170,6 @@ The forecasting results can support:
 ---
 
 ## 👨‍💻 Author
-
 **Neil Majumdar**
 ---
 
