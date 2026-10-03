@@ -169,8 +169,9 @@ The forecasting results can support:
 
 ---
 
-## 👨‍💻 Author
-**Neil Majumdar**
+## 👨‍💻 Project By
+
+Neil Majumdar
 ---
 
 ⭐ If you found this project interesting, feel free to explore the notebook and project files!
