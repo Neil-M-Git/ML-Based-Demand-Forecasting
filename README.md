@@ -139,16 +139,6 @@ The forecasting results can support:
 
 ---
 
-## 🚀 Future Improvements
-
-- 🌲 Implement advanced models such as Random Forest or XGBoost
-- 📅 Add seasonal and festival-based demand analysis
-- 🔴 Integrate real-time business data
-- 📚 Use larger datasets to improve forecasting reliability
-- 📊 Develop more advanced forecasting techniques
-
----
-
 ## 📁 Project Files
 
 - [📓 main.ipynb](./code/main.ipynb) – Data analysis and machine learning implementation
